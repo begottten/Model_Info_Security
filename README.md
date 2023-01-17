@@ -69,5 +69,5 @@
 1.
 
 ## Список литературы
-1. https://cisoclub.ru/model-informaczionnoj-bezopasnosti/
-2. https://itnan.ru/post.php?c=1&p=347088
+1. **[Ciscoclub.ru](https://cisoclub.ru/model-informaczionnoj-bezopasnosti/)**
+2. **[Itnan.ru](https://itnan.ru/post.php?c=1&p=347088)**
